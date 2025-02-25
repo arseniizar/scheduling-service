@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulingService", "SchedulingService\SchedulingService.csproj", "{16185BF8-DE83-4BB3-BFA8-DB8DD7269656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16185BF8-DE83-4BB3-BFA8-DB8DD7269656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16185BF8-DE83-4BB3-BFA8-DB8DD7269656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16185BF8-DE83-4BB3-BFA8-DB8DD7269656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16185BF8-DE83-4BB3-BFA8-DB8DD7269656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
